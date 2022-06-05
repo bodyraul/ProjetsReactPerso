@@ -1,0 +1,49 @@
+.containerSlide{
+    position: relative;
+    height: 700px;
+    margin: 0 auto;
+    width: 70%;
+    border:solid black 1px;
+    margin-top: 100px;
+}
+
+.contenuSlide{
+    position: absolute;
+    top:0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.active{
+    opacity: 1;
+}
+ 
+.desactive{
+    opacity: 0;
+}
+
+
+.rond {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+  }
+
+  .rond-anim{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border:white 3px solid;
+    margin-right: 5px;
+  }
+  .rond-notanim{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border:white 3px solid;
+    margin-right: 5px;
+    background-color: white;
+  }

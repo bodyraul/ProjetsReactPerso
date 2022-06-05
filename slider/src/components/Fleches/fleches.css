@@ -1,0 +1,23 @@
+.fleche-gauche{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #f1f1f1;
+    border: 1px solid black;
+    position: absolute;
+    left: 70px;
+    right: 50px;
+    bottom: 300px;
+}
+
+.fleche-droite{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #f1f1f1;
+    border: 1px solid black;
+    position: absolute;
+    right: 70px;
+    right: 50px;
+    bottom: 300px;
+}
