@@ -1,0 +1,33 @@
+#containerFinal{
+    width: 40%;
+    background-color: 	#ADD8E6;
+    margin: 0 auto;
+}
+
+form{
+    display: block;
+    
+}
+p,label{
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+textarea{
+    width: 90%;
+    margin-left: 10px;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+}
+
+button:hover{
+   background-color: #90EE90;
+}

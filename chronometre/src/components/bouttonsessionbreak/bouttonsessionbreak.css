@@ -1,0 +1,27 @@
+#containerbtnsessionbreak{
+    width: 50%;
+    height: 40px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+#containerbtnsessionbreak *{
+    width: 15%;
+    height: 80%;
+    text-align: center;
+    color: rgb(54, 25, 220);
+}
+#containerbtnsessionbreak button{
+   border-radius: 50%;
+   border: 1px solid rgb(54, 25, 220);
+   font-size: 20px;
+   background-color: white;
+}
+
+#containerbtnsessionbreak p{
+    font-size: 20px;
+}

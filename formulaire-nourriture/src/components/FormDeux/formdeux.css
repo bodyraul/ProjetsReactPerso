@@ -1,0 +1,42 @@
+#containerDeux{
+    background-color: 	#ADD8E6;
+    width: 45%;
+    margin: 0 auto;
+    height: 600px;
+}
+
+p{
+    text-align: center;
+    font-size: 33px;
+}
+
+form{
+    color: black;
+    margin-top: 100px;
+}
+
+label{
+    display: block;
+    margin-left: 10px;
+    font-size: 25px;
+    
+}
+
+input[type='checkbox'] 
+{ 
+    transform: scale(2);
+    margin-left: 10px; 
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+}
+
+button:hover{
+   background-color: #90EE90;
+}

@@ -1,0 +1,14 @@
+#containerbreak{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#containerbreak p{
+    font-size: 13px;
+    width: 34%;
+    text-align: center;
+    color: rgb(54, 25, 220);
+}

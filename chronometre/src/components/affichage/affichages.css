@@ -1,0 +1,17 @@
+#containeraffichage{
+    width: 40%;
+    height: 60px;
+    background-color: rgb(54, 25, 220);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#containeraffichage p {
+    color :white;
+    font-size: 40px;
+    word-spacing: 5px;
+}

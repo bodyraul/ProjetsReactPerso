@@ -1,0 +1,26 @@
+.paraStart{
+    width: 70%;
+    height: 250px;
+    border: solid 1px black;
+    background-color: white;
+    margin:0 auto;
+    margin-top: 100px;
+}
+
+.paraintro{
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+}
+
+#boutonCommencer{
+    display: block;
+    background-color: coral;
+    color: black;
+    font-weight: bold;
+    width: 20%;
+    height: 20%;
+    margin:  auto;
+    margin-top: 50px;
+    
+}

@@ -1,0 +1,50 @@
+.divTitre{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    width: 65%;
+    margin: auto;
+    margin-top: 100px;
+    position: relative;
+}
+
+.paragraphe{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    width: 65%;
+    margin: auto;
+    margin-top: 100px;
+    line-height: 50px;
+
+}
+
+.bouton{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 100px;
+    height: 100px;
+    border: solid 1px white;
+    color: white;
+}
+
+.bouton2{
+    position: absolute;
+    top: 130px;
+    left: 20px;
+    width: 100px;
+    height: 100px;
+    border: solid 1px white;
+    color: white;
+}
+
+.bouton3{
+    position: absolute;
+    top: 240px;
+    left: 20px;
+    width: 100px;
+    height: 100px;
+    border: solid 1px white;
+    color: white;
+}
